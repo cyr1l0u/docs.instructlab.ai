@@ -114,7 +114,7 @@ If you have not written YAML before, YAML is a text file where indentation matte
     - Consider quoting all values with double quotation marks (`"`) to avoid surprising YAML parser behavior (e.g., Yes answer can be interpreted by the parser as a boolean of `True` value, unless "Yes" is quoted.)
     - See [yaml-multiline.info](https://yaml-multiline.info/) for more info.
 
-We recommend you **lint**, or verify, your YAML using a tool. One linter option is [yamllint.com](https://yamllint.com). You can copy/paste your YAML into the box and select **Go** to have it analyze your YAML and make recommendations. Online tools like [prettified](https://onlineyamltools.com/prettify-yaml) and [yaml-validator](https://jsonformatter.org/yaml-validator) can automatically reformat your YAML to adhere to our `yamllint` PR checks, such as breaking lines longer than 120 characters.
+We recommend you **lint**, or verify, your YAML using a tool. One linter option is [yamllint.com](https://yamllint.com). You can copy/paste your YAML into the box and select **Go** to have it analyze your YAML and make recommendations. Online tools like [prettified](https://onlineyamltools.com/prettify-yaml) and [yaml-validator](https://jsonformatter.org/yaml-validator) can automatically reformat your YAML to adhere to our `yamllint` PR checks, such as breaking lines longer than 120 characters. More YAML tools are available on [Yamline.com](https://yamline.com/).
 
 ### Examples
 
